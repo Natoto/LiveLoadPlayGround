@@ -1,0 +1,23 @@
+PODS:
+  - CocoaAsyncSocket (7.6.3)
+  - LiveLoadClient (0.0.1):
+    - CocoaAsyncSocket
+
+DEPENDENCIES:
+  - LiveLoadClient (from `../LiveLoadClient.podspec`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaAsyncSocket
+
+EXTERNAL SOURCES:
+  LiveLoadClient:
+    :path: "../LiveLoadClient.podspec"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  LiveLoadClient: 942602be0c9a199288f1aeca09d7b0918f66bed3
+
+PODFILE CHECKSUM: e975f9c68c2a856f342a113e2e60b049df997bdd
+
+COCOAPODS: 1.5.3

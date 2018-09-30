@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/boo/Documents/demo/LiveLoadPlayGround/build/Debug-iphonesimulator/LiveLoadPlayGround.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LiveLoadPlayGround-Swift.h",
+          'external-contents': "/Users/boo/Documents/demo/LiveLoadPlayGround/build/Debug-iphonesimulator/LiveLoadPlayGround.framework/Headers/LiveLoadPlayGround-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/boo/Documents/demo/LiveLoadPlayGround/build/Debug-iphonesimulator/LiveLoadPlayGround.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/boo/Documents/demo/LiveLoadPlayGround/build/LiveLoadPlayGround.build/Debug-iphonesimulator/LiveLoadPlayGround.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

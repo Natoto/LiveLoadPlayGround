@@ -1,0 +1,30 @@
+{
+  "name": "LiveLoadClient",
+  "version": "0.0.1",
+  "summary": "A short description of LiveLoadClient.",
+  "description": "a client for LiveLoad Injector to inject native code into running apps.",
+  "homepage": "https://github.com/Soulghost/Dyamk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "natoto": "natoto@foxmail.com"
+  },
+  "social_media_url": "https://twitter.com/natoto",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/natoto/LiveLoadPlayGround",
+    "tag": "0.0.1"
+  },
+  "source_files": "LiveLoadClient/**/*.{h,m}",
+  "public_header_files": "LiveLoadClient/**/*.h",
+  "requires_arc": true,
+  "dependencies": {
+    "CocoaAsyncSocket": [
+
+    ]
+  }
+}
